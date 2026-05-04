@@ -6,4 +6,4 @@ while (value1 <= 20) {
     value2 = value2 + value1;
     value1++;
 }   // your code
-let sum = 210;
+let sum = value2;
