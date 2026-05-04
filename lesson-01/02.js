@@ -5,11 +5,11 @@
   Например, факториал числа 3 это 1 * 2 * 3 (6).
 */
     let i = 1;
-    let factorial = 1;
+    let result = 1;
 
     while (i <= 10) {
-      factorial = factorial * i;
+      result = result * i;
       i++; 
     }
 // your code
-let factorial = 3628800;
+let factorial = result;
